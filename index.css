@@ -1,5 +1,9 @@
-  body{
-    background-color: seagreen;
-    text-align: center;
-    font-size: 200%;
-  }
+body{
+  background-color: seagreen;
+  text-align: center;
+  font-size: 200%;
+}
+
+header{
+  font-size: 200%;
+}
