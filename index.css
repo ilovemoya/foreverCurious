@@ -1,9 +1,18 @@
 body{
-  background-color: seagreen;
-  text-align: center;
-  font-size: 200%;
+  background-color:seagreen;
+  font-family:verdana;
+  text-align:center;
+  padding:10px;
 }
 
 header{
-  font-size: 200%;
+  font-size: 55px;
+}
+
+h1{
+  font-size: 40px
+}
+
+p{
+  font-size:24px;
 }
