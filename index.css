@@ -1,7 +1,8 @@
 body{
   background-color:seagreen;
   font-family:verdana;
-  text-align:center;
+  text-align: center;
+  line-height: 40px;
   padding:10px;
 }
 
@@ -19,4 +20,16 @@ p{
 
 footer{
   font-size:10px;
+}
+
+#diary20170911{
+  color: #55ffff;
+}
+
+.contentResize{
+  width: auto;
+  height: auto;
+  border: solid black 5px;
+  overflow: auto;
+  resize: both;
 }
